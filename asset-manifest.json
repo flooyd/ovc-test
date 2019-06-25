@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ovc-test/static/css/main.3c02c300.chunk.css",
+    "main.js": "/ovc-test/static/js/main.9990fe2b.chunk.js",
+    "main.js.map": "/ovc-test/static/js/main.9990fe2b.chunk.js.map",
+    "runtime~main.js": "/ovc-test/static/js/runtime~main.616aa0b7.js",
+    "runtime~main.js.map": "/ovc-test/static/js/runtime~main.616aa0b7.js.map",
+    "static/js/2.a6ce0543.chunk.js": "/ovc-test/static/js/2.a6ce0543.chunk.js",
+    "static/js/2.a6ce0543.chunk.js.map": "/ovc-test/static/js/2.a6ce0543.chunk.js.map",
+    "index.html": "/ovc-test/index.html",
+    "precache-manifest.9e135c7bb4df4c48d781b32d3a2d6fe6.js": "/ovc-test/precache-manifest.9e135c7bb4df4c48d781b32d3a2d6fe6.js",
+    "service-worker.js": "/ovc-test/service-worker.js",
+    "static/css/main.3c02c300.chunk.css.map": "/ovc-test/static/css/main.3c02c300.chunk.css.map"
+  }
+}
