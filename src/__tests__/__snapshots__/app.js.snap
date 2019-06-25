@@ -1,0 +1,228 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table loads, fetches users, and displays users 1`] = `
+<div
+  className="App"
+>
+  <table>
+    <tbody>
+      <tr
+        className="tableHeader"
+      >
+        <th>
+          Name
+        </th>
+        <th>
+          Email
+        </th>
+        <th>
+          City
+        </th>
+        <th>
+          Company
+        </th>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "white",
+          }
+        }
+      >
+        <td>
+          Leanne Graham
+        </td>
+        <td>
+          Sincere@april.biz
+        </td>
+        <td>
+          Gwenborough
+        </td>
+        <td>
+          Romaguera-Crona
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "#eee",
+          }
+        }
+      >
+        <td>
+          Ervin Howell
+        </td>
+        <td>
+          Shanna@melissa.tv
+        </td>
+        <td>
+          Wisokyburgh
+        </td>
+        <td>
+          Deckow-Crist
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "white",
+          }
+        }
+      >
+        <td>
+          Clementine Bauch
+        </td>
+        <td>
+          Nathan@yesenia.net
+        </td>
+        <td>
+          McKenziehaven
+        </td>
+        <td>
+          Romaguera-Jacobson
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "#eee",
+          }
+        }
+      >
+        <td>
+          Patricia Lebsack
+        </td>
+        <td>
+          Julianne.OConner@kory.org
+        </td>
+        <td>
+          South Elvis
+        </td>
+        <td>
+          Robel-Corkery
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "white",
+          }
+        }
+      >
+        <td>
+          Chelsey Dietrich
+        </td>
+        <td>
+          Lucio_Hettinger@annie.ca
+        </td>
+        <td>
+          Roscoeview
+        </td>
+        <td>
+          Keebler LLC
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "#eee",
+          }
+        }
+      >
+        <td>
+          Mrs. Dennis Schulist
+        </td>
+        <td>
+          Karley_Dach@jasper.info
+        </td>
+        <td>
+          South Christy
+        </td>
+        <td>
+          Considine-Lockman
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "white",
+          }
+        }
+      >
+        <td>
+          Kurtis Weissnat
+        </td>
+        <td>
+          Telly.Hoeger@billy.biz
+        </td>
+        <td>
+          Howemouth
+        </td>
+        <td>
+          Johns Group
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "#eee",
+          }
+        }
+      >
+        <td>
+          Nicholas Runolfsdottir V
+        </td>
+        <td>
+          Sherwood@rosamond.me
+        </td>
+        <td>
+          Aliyaview
+        </td>
+        <td>
+          Abernathy Group
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "white",
+          }
+        }
+      >
+        <td>
+          Glenna Reichert
+        </td>
+        <td>
+          Chaim_McDermott@dana.io
+        </td>
+        <td>
+          Bartholomebury
+        </td>
+        <td>
+          Yost and Sons
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "#eee",
+          }
+        }
+      >
+        <td>
+          Clementina DuBuque
+        </td>
+        <td>
+          Rey.Padberg@karina.biz
+        </td>
+        <td>
+          Lebsackbury
+        </td>
+        <td>
+          Hoeger LLC
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

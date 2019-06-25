@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {connect} from 'react-redux';
-import getUsers from './_actions';
+import {getUsers} from './_actions';
 import './UserTable.css';
 
 class UserTable extends React.Component {
