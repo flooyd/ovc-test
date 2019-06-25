@@ -1,0 +1,14 @@
+.App table {
+  margin: 20px;
+}
+
+tbody td {
+  padding: 10px;
+  padding-left: 0px;
+}
+
+tbody th {
+  text-align: left;
+  font-weight: bold;
+  border-bottom: 1px solid black;
+}
